@@ -29,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kaifglitch/kaif-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kaifglitch/kaif-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kaifglitch/kaif-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
