@@ -62,4 +62,12 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0835-image-overlap) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
