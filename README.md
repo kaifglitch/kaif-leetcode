@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/0015-3sum) |
 | [0835-image-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaifglitch/kaif-leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -46,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kaifglitch/kaif-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kaifglitch/kaif-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
