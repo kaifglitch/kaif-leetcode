@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/0015-3sum) |
 | [0835-image-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaifglitch/kaif-leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kaifglitch/kaif-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -57,10 +59,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaifglitch/kaif-leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kaifglitch/kaif-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaifglitch/kaif-leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -93,4 +97,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
