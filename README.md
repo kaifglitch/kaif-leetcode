@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/0015-3sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaifglitch/kaif-leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
@@ -37,6 +38,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kaifglitch/kaif-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -51,6 +53,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kaifglitch/kaif-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
@@ -84,6 +87,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
