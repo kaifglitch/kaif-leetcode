@@ -63,6 +63,7 @@
 | [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kaifglitch/kaif-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1096-brace-expansion-ii](https://github.com/kaifglitch/kaif-leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaifglitch/kaif-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kaifglitch/kaif-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -139,8 +140,13 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/kaifglitch/kaif-leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaifglitch/kaif-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/kaifglitch/kaif-leetcode/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaifglitch/kaif-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
