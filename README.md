@@ -20,6 +20,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/kaifglitch/kaif-leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kaifglitch/kaif-leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kaifglitch/kaif-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3886-sum-of-sortable-integers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/kaifglitch/kaif-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kaifglitch/kaif-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaifglitch/kaif-leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3886-sum-of-sortable-integers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kaifglitch/kaif-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/kaifglitch/kaif-leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kaifglitch/kaif-leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kaifglitch/kaif-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3886-sum-of-sortable-integers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
 | ------- |
