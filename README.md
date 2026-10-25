@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/0015-3sum) |
 | [0835-image-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/kaifglitch/kaif-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaifglitch/kaif-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kaifglitch/kaif-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -45,6 +46,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/kaifglitch/kaif-leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kaifglitch/kaif-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/kaifglitch/kaif-leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kaifglitch/kaif-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
@@ -195,6 +198,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/kaifglitch/kaif-leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/kaifglitch/kaif-leetcode/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -219,4 +223,8 @@
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kaifglitch/kaif-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kaifglitch/kaif-leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/kaifglitch/kaif-leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
