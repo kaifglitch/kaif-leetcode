@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/0015-3sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kaifglitch/kaif-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/kaifglitch/kaif-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -145,6 +146,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kaifglitch/kaif-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kaifglitch/kaif-leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kaifglitch/kaif-leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
