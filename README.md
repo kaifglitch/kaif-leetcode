@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kaifglitch/kaif-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaifglitch/kaif-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kaifglitch/kaif-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaifglitch/kaif-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/kaifglitch/kaif-leetcode/tree/master/0835-image-overlap) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaifglitch/kaif-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaifglitch/kaif-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
@@ -131,6 +133,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaifglitch/kaif-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaifglitch/kaif-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaifglitch/kaif-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
