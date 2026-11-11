@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kaifglitch/kaif-leetcode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/kaifglitch/kaif-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaifglitch/kaif-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaifglitch/kaif-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -107,6 +108,7 @@
 | [0020-valid-parentheses](https://github.com/kaifglitch/kaif-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kaifglitch/kaif-leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kaifglitch/kaif-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/kaifglitch/kaif-leetcode/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/kaifglitch/kaif-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kaifglitch/kaif-leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kaifglitch/kaif-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
