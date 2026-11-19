@@ -22,6 +22,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/kaifglitch/kaif-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kaifglitch/kaif-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kaifglitch/kaif-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kaifglitch/kaif-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/kaifglitch/kaif-leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kaifglitch/kaif-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kaifglitch/kaif-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -61,6 +62,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kaifglitch/kaif-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kaifglitch/kaif-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kaifglitch/kaif-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/kaifglitch/kaif-leetcode/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaifglitch/kaif-leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3886-sum-of-sortable-integers](https://github.com/kaifglitch/kaif-leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -204,6 +206,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaifglitch/kaif-leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kaifglitch/kaif-leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaifglitch/kaif-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kaifglitch/kaif-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kaifglitch/kaif-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kaifglitch/kaif-leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Combinatorics
